@@ -1,0 +1,60 @@
+body {
+    background-color: #bb00ffba;
+}
+
+#whiterectangle {
+    width: 200px;
+    height: 100px;
+    background-color: #ffffff;
+}
+
+#orangerectangle {
+    width: 200px;
+    height: 33px;
+    background-color: #ff671f;
+}
+
+#greenrectangle {
+    width: 200px;
+    height: 33px;
+    background-color: #046a38;
+}
+
+#bluecircle {
+    width: 34px;
+    height: 34px;
+    background-color: #06038d;
+    border-radius: 50%;
+    margin-left: 82.5px;
+}
+
+#whitecircle {
+    width: 34px;
+    height: 34px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    transform: scale(0.87);
+}
+
+#minibluecircle {
+    width: 34px;
+    height: 34px;
+    background-color: #06038d;
+    border-radius: 50%;
+    transform: scale(0.2);
+}
+
+#line {
+    width: 0.8px;
+    height: 35px;
+    background-color: #06038d;
+    margin-left: 17px;
+    margin-top: -35px;
+}
+
+#flag {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
